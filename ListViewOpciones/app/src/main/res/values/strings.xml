@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">ListViewOpciones</string>
+    <string name="regitrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string name="txt_titulo">REGISTRO</string>
+    <string name="nombre">Nombre</string>
+    <string name="pasatiempos">Pasatiempos</string>
+    <string name="masculino">Masculino</string>
+    <string name="fenemino">Femenino</string>
+    <string name="sexo">Sexo</string>
+    <string name="leer">Leer</string>
+    <string name="jugar">Jugar</string>
+    <string name="programar">Programar</string>
+    <string name="btnregistrar">REGISTRAR</string>
+    <string name="btnborrar">BORRAR</string>
+    <string name="numero">Nº</string>
+    <string-array name="opciones">
+        <item>@string/regitrar</item>
+        <item>@string/listar</item>
+    </string-array>
 </resources>
